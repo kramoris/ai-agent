@@ -17,8 +17,9 @@ pip install python-dotenv==1.1.0
 ```
 
 If not:
-```bash
+
 install uv and run:
+```bash
 uv venv --python 3.13
 source .venv/bin/activate
 uv add google-genai==1.12.1
