@@ -16,3 +16,7 @@ wheels/
 .python-version
 pyproject.toml
 uv.lock
+
+# tests
+calculator/tests.py
+test_get_files_info.py
