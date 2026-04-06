@@ -19,4 +19,6 @@ uv.lock
 
 # tests
 calculator/tests.py
+calculator/lorem.txt
 test_get_files_info.py
+test_get_file_content.py
