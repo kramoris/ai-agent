@@ -2,6 +2,14 @@
 
 Simple AI Agent using gemini-2.5-flash made during Boot.dev with some improvements.
 
+## ⚠️ Warning
+
+This project allows executing Python code and accessing the local filesystem.
+
+Running it with untrusted input can lead to arbitrary code execution and data exposure.
+
+It can modify or delete files on your system.
+
 ## Requirements
 - Python 3.13 or newer
 - python-dotenv 1.1.0
